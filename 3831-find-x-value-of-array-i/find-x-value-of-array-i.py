@@ -21,4 +21,4 @@ class Solution:
 
             prev = curr
 
-        return ans
+        return ans #for final changes
